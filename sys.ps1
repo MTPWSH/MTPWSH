@@ -1,3 +1,4 @@
+#!/usr/bin/env pwsh
 while ($true) {
     
     $programToRun = Read-Host "MTPWSH~"
