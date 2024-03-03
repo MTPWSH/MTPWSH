@@ -1,3 +1,0 @@
-MTPWSH Beta 2024mar3/1
-quit - leave MTPWSH
-help - show this
