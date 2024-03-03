@@ -1,0 +1,1 @@
+Get-Content help.txt | more

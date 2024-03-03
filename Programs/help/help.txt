@@ -1,0 +1,3 @@
+MTPWSH Beta
+quit - leave MTPWSH
+help - show this
