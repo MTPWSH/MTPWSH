@@ -1,4 +1,5 @@
-release 2024Mar4/1
+release 2024Mar4/2
 pre-built commands:
 quit (shell builtin): leave MTOS
 help: show this document
+update: update the system
